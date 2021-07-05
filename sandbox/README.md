@@ -1,2 +1,0 @@
-# golang
-Published GoLang packages
