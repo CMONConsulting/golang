@@ -1,6 +1,5 @@
-
-**/.DS_Store
+# Ignored golang files
 golang/.project
 .DS_Store
-golang/pkg/mod/cache/**
+golang/pkg/mod/**
 
